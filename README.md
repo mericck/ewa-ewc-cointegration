@@ -156,11 +156,8 @@ Both Johansen statistics reject the no-cointegration hypothesis at the **10% lev
 
 ## Results
 
-| Test                       | Statistic                    | 5% Level                  | 10% Level |
-| Engle–Granger: EWC ~ EWA   | -2.896                       | Fail to reject            | Fail to reject |
-| Engle–Granger: EWA ~ EWC   | -3.206                       | Fail to reject            | Reject |
-| Johansen Trace (r = 0)     | 14.380                       | Fail to reject            | Reject |
-| Johansen Max-Eigen (r = 0) | 12.734                       | Fail to reject            | Reject |
+<img width="960" height="273" alt="image" src="https://github.com/user-attachments/assets/4159a102-193d-4fc5-ae75-7a53b01680c0" />
+
 
 At the conventional **5% significance level**, the recent sample does not provide sufficient evidence that EWA and EWC remain cointegrated.
 
